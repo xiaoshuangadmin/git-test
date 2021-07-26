@@ -17,6 +17,7 @@ public class GitTest {
     System.out.println("hello push test    web  modify ide_2!");
     System.out.println("hello push test    web  modify  web_2!");
     System.out.println("hello web test !");
-    System.out.println("测试远程库版本比本地库高，本地库未pull远程库代码，再本地库修改后先push到远程库! push请求会被拒绝！！！");
+    System.out.println("测试远程库版本比本地库高，本地库未pull远程库代码，再本地库修改后先push到远程库! push请求会被拒绝！！！2");
+    
   }
 }
